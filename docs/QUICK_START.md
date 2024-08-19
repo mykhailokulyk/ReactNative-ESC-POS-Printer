@@ -8,7 +8,7 @@
      height="300"
 />
 
-Please find full code [here](https://github.com/tr3v3r/react-native-esc-pos-printer/tree/main/example/src/screens/SimplePrint.tsx).
+Please find full code [here](https://github.com/mykhailokulyk/react-native-esc-pos-printer/tree/main/example/src/screens/SimplePrint.tsx).
 
 ## 2) Print from React Native View
 
@@ -22,4 +22,4 @@ Please find full code [here](https://github.com/tr3v3r/react-native-esc-pos-prin
      height="300"
 />
 
-Please find full code [here](https://github.com/tr3v3r/react-native-esc-pos-printer/tree/main/example/src/screens/PrintFromView.tsx).
+Please find full code [here](https://github.com/mykhailokulyk/react-native-esc-pos-printer/tree/main/example/src/screens/PrintFromView.tsx).

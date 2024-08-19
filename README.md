@@ -18,11 +18,6 @@ _An unofficial React Native library for printing on an EPSON TM printer with the
 4. [Supported devices](./docs/SUPPORTED_DEVICES.md)
 5. [SDK information (v2.27.0)](./docs/SDK.md)
 
-## Sponsoring
-I'm working on the lib at my free time. If you like the lib and want to support me, you can [buy me a cofee](https://buymeacoffee.com/tr3v3r
-). Thanks!
-
-
 ## Known issues
 
 1. For now it's not possible to print and discover on Android simulator. But you can always use real device.
@@ -36,7 +31,3 @@ I'm working on the lib at my free time. If you like the lib and want to support 
 - [x] Reimplement discovering to have implementation close to native SDK
 - [x] Reimplement printing to have implementation close to native SDK
 - [x] Add queue mechanism for quick print
-
-## License
-
-MIT
